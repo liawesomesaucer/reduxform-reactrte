@@ -1,0 +1,23 @@
+{
+  "name": "redux-form-react-rich-text-editor-example",
+  "description": "Example of Redux Form used with React Rich Text Editor Example",
+  "version": "0.0.0",
+  "dependencies": {
+    "redux-form": "7.2.1",
+    "redux": "3.7.2",
+    "react-rte": "0.16.0",
+    "react-redux": "5.0.6",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "prop-types": "15.6.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
